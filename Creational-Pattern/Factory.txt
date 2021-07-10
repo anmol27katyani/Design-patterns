@@ -1,0 +1,7 @@
+# When to Use the Factory Method Pattern
+Use the Factory Method pattern when there is a need to decouple a client from a particular product that it uses. Use the Factory Method to relieve a client of responsibility for creating and configuring instances of a product.
+
+# When to Use the Abstract Factory Pattern
+Use the Abstract Factory pattern when clients must be decoupled from product classes. Especially useful for program configuration and modification. The Abstract Factory pattern can also enforce constraints about which classes must be used with others. It may be a lot of work to make new concrete factories.
+
+
